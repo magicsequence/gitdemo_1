@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="8d824437-3d61-4d2e-a623-94b67abca4a8" name="magicsequence">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
