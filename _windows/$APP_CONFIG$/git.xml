@@ -1,0 +1,6 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="E:\githome\install\bin\git.exe" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="false" />
+  </component>
+</application>

@@ -1,0 +1,213 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="10" />
+      <type value="JavaSDK" />
+      <version value="version 10.0.2" />
+      <homePath value="D:/myjdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/myjdk!/java.activation" type="simple" />
+            <root url="jrt://D:/myjdk!/java.base" type="simple" />
+            <root url="jrt://D:/myjdk!/java.compiler" type="simple" />
+            <root url="jrt://D:/myjdk!/java.corba" type="simple" />
+            <root url="jrt://D:/myjdk!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/myjdk!/java.desktop" type="simple" />
+            <root url="jrt://D:/myjdk!/java.instrument" type="simple" />
+            <root url="jrt://D:/myjdk!/java.jnlp" type="simple" />
+            <root url="jrt://D:/myjdk!/java.logging" type="simple" />
+            <root url="jrt://D:/myjdk!/java.management" type="simple" />
+            <root url="jrt://D:/myjdk!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/myjdk!/java.naming" type="simple" />
+            <root url="jrt://D:/myjdk!/java.prefs" type="simple" />
+            <root url="jrt://D:/myjdk!/java.rmi" type="simple" />
+            <root url="jrt://D:/myjdk!/java.scripting" type="simple" />
+            <root url="jrt://D:/myjdk!/java.se" type="simple" />
+            <root url="jrt://D:/myjdk!/java.se.ee" type="simple" />
+            <root url="jrt://D:/myjdk!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/myjdk!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/myjdk!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/myjdk!/java.sql" type="simple" />
+            <root url="jrt://D:/myjdk!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/myjdk!/java.transaction" type="simple" />
+            <root url="jrt://D:/myjdk!/java.xml" type="simple" />
+            <root url="jrt://D:/myjdk!/java.xml.bind" type="simple" />
+            <root url="jrt://D:/myjdk!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/myjdk!/java.xml.ws" type="simple" />
+            <root url="jrt://D:/myjdk!/java.xml.ws.annotation" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.base" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.controls" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.deploy" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.fxml" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.graphics" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.media" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.swing" type="simple" />
+            <root url="jrt://D:/myjdk!/javafx.web" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.aot" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.attach" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.crypto.mscapi" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.deploy" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.deploy.controlpanel" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.editpad" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.incubator.httpclient" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.javaws" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jcmd" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jconsole" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jshell" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.jstatd" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.management" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.management.cmm" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.management.resource" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.net" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.pack" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.packager" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.packager.services" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.plugin" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.plugin.server" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.rmic" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.snmp" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.xml.bind" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.xml.ws" type="simple" />
+            <root url="jrt://D:/myjdk!/jdk.zipfs" type="simple" />
+            <root url="jrt://D:/myjdk!/oracle.desktop" type="simple" />
+            <root url="jrt://D:/myjdk!/oracle.net" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/myjdk/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.aot" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.pack" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.rmic" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.corba" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.se.ee" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.web" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.xml.ws" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.xml.ws" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.base" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.fxml" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.media" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.swing" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.packager" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.xml.bind" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.xml.bind" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.activation" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.controls" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/javafx.graphics" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.transaction" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.packager.services" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/java.xml.ws.annotation" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.incubator.httpclient" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jar://D:/myjdk/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
