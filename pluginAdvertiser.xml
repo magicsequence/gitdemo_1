@@ -2390,6 +2390,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="org.mule.esb.configuration">
+                    <value>
+                      <FeaturePluginData displayName="Mule Runtime" pluginName="Mule 4 Runtime." pluginId="org.mule.tooling.intellij.muleruntime.v2" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -2403,6 +2408,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="MULE_FACET_ID">
+                    <value>
+                      <FeaturePluginData displayName="Mule ESB" pluginName="Mule 4 Runtime." pluginId="org.mule.tooling.intellij.muleruntime.v2" />
                     </value>
                   </entry>
                   <entry key="Spring">
